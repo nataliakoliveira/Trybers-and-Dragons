@@ -1,13 +1,38 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+# Projeto Trybers and Dragons
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Aplicação dos princípios da arquitetura SOLID e os princípios de POO em uma estrutura de jogos de interpretação de papéis, mais conhecidos como jogos RPG (Role Playing Game).
+
+## Screenshots
+
+![App Screenshot](./src/imgs/img.png)
+
+
+
+
+## Instalação
+
+Instale Trybers And Dragons com npm
+
+```bash
+  git clone git@github.com:nataliakoliveira/Trybers-and-Dragons.git
+  cd Trybers-and-Dragons
+  npm install
+```
+    
+## Stack utilizada
+
+**Back-end:** TypeScript
+
+
+## Aprendizados
+
+ - O conhecimento dos pilares da Programação Orientada a Objetos: Herança, Abstração, Encapsulamento e Polimorfismo.
+
+ - A habilidade de criar e utilizar Interface;
+
+ - A habilidade de utilizar Composição;
+
+ - Implementar, em TypeScript, Classes, Instâncias, Atributos, Métodos e Objetos;
+
+ - O conhecimento e aplicação dos princípios SOLID.
